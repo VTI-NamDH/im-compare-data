@@ -1,0 +1,19 @@
+HTTP/2 200 
+date: Thu, 18 Aug 2022 09:41:20 GMT
+content-type: application/json;charset=utf-8
+content-length: 938
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+x-tracking: x-tracking-8419fc6735b54e00a3533d0208b1b55d
+expires: Mon, 26 Jul 1997 05:00:00 GMT
+cache-control: no-cache="set-cookie"
+x-content-type-options: nosniff
+x-robots-tag: noindex, nofollow
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+apigw-requestid: XDZiEjxONjMEPMw=
+
+{"total":3,"hasNext":false,"items":[{"conversionId":156,"projectId":"00454d4a-b2c9-11eb-9fd6-06d367mpj001","influencerId":"05c185b8-8ab1-11ea-99d6-06ac53inf001","mediaId":"media_momotaro","offerId":"order_id_001","rewardPrice":2100,"feePrice":630,"sumPrice":2730,"clickDate":"2022-05-27 15:59:50","conversionDate":"2022-05-27 16:00:00"},{"conversionId":157,"projectId":"00454d4a-b2c9-11eb-9fd6-06d367mpj001","influencerId":"05c185b8-8ab1-11ea-99d6-06ac53inf002","mediaId":"okinawa_travel","offerId":"order_id_001","rewardPrice":2100,"feePrice":630,"sumPrice":2730,"clickDate":"2022-05-27 15:59:50","conversionDate":"2022-05-28 16:00:00"},{"conversionId":158,"projectId":"00454d4a-b2c9-11eb-9fd6-06d367mpj001","influencerId":"05c185b8-8ab1-11ea-99d6-06ac53inf003","mediaId":"osaka_travel","offerId":"order_id_001","rewardPrice":2100,"feePrice":630,"sumPrice":2730,"clickDate":"2022-05-27 15:59:50","conversionDate":"2022-05-29 16:00:00"}]}
+
+expect_code: 200
